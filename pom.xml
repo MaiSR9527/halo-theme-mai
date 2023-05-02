@@ -8,10 +8,10 @@
         <version>2.7.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.liuzhihang</groupId>
-    <artifactId>halo-theme-hao</artifactId>
+    <groupId>top.maishuren</groupId>
+    <artifactId>halo-theme-mai</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>halo-theme-hao</name>
+    <name>halo-theme-mai</name>
 
     <properties>
         <java.version>17</java.version>

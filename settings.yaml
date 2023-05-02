@@ -1,7 +1,7 @@
 apiVersion: v1alpha1
 kind: Setting
 metadata:
-  name: theme-hao-setting
+  name: theme-mai-setting
 spec:
   forms:
     - group: basics
@@ -649,11 +649,11 @@ spec:
         - $formkit: text
           name: introductionTip
           label: 介绍框内容
-          value: '⭐️ Star halo-theme-hao，提交主题建议或意见。'
+          value: '⭐️ Star halo-theme-mai，提交主题建议或意见。'
         - $formkit: url
           name: introductionUrl
           validation: "url"
-          value: "https://github.com/liuzhihang/halo-theme-hao"
+          value: "https://github.com/MaiSR9527/halo-theme-mai"
           label: 介绍框点击跳转地址
           placeholder: 请输入跳转 url
 

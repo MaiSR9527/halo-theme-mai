@@ -1,17 +1,17 @@
 apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
-  name: theme-hao
+  name: theme-mai
 spec:
-  displayName: Hao
+  displayName: mai
   author:
-    name: 程序员小航
-    website: 'https://liuzhihang.com'
+    name: maishuren
+    website: 'https://www.maishuren.top'
   description: Halo 2.0 Theme base on Thymeleaf, Referring to Butterfly and Heo
-  logo: 'https://liuzhihang.com/themes/theme-hao/assets/images/hao-logo.jpg'
-  website: 'https://liuzhihang.com'
-  repo: 'https://github.com/liuzhihang/halo-theme-hao'
-  settingName: "theme-hao-setting"
-  configMapName: "theme-hao-configMap"
+  logo: 'https://image.maishuren.top/blog/icons.png'
+  website: 'https://www.maishuren.top'
+  repo: 'https://github.com/MaiSR9527/halo-theme-mai'
+  settingName: "theme-mai-setting"
+  configMapName: "theme-mai-configMap"
   version: 1.1.1
   require: 2.0.0
