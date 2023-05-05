@@ -8941,7 +8941,7 @@ li {
     }
 
     .recent-post-item .recent-post-info .recent-post-info-top .article-title {
-        font-size: 22px;
+        font-size: 19px;
         -webkit-line-clamp: 2;
     }
 
@@ -9505,9 +9505,9 @@ span.recent-post-top-text {
     }
 
     /* 文章标签 */
-    #recent-posts > .recent-post-item > .recent-post-info > .article-meta-wrap {
+    /* #recent-posts > .recent-post-item > .recent-post-info > .article-meta-wrap {
         bottom: 0.5rem !important;
-    }
+    } */
 
     #recent-posts > .recent-post-item > .recent-post-info > .article-meta-wrap time {
         display: absolute;
@@ -9779,11 +9779,11 @@ a.article-meta__category:hover {
 
 @media screen and (min-width: 1300px) {
     #recent-posts > .recent-post-item:hover > .recent-post-info > .article-meta-wrap {
-        bottom: 30px;
+        bottom: 0px;
     }
 
     #recent-posts > .recent-post-item.post-card-large:hover > .recent-post-info > .article-meta-wrap {
-        bottom: 30px;
+        bottom: 0px;
     }
 
     #recent-posts > .recent-post-item > .recent-post-info > .article-meta-wrap {
